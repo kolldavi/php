@@ -7,7 +7,7 @@ chat application uses php ajax msql
 
 ## Screenshot
 ![screenshot](https://github.com/kolldavi/php/blob/master/chatBot/ScreenShot.png?raw=true)
-(http://176.32.230.9/davidkollerpracticewebsite.com/mySQL/chatBot/)
+(http://davidkollerpracticewebsite-com.stackstaging.com/mySQL/chatBot/)
 
 
 

@@ -3,7 +3,7 @@ This is a WeatherApp that uses html, php, bootstrap and css to tell you the weat
 
 
 ## Screenshot
-[![IMAGE ALT TEXT HERE](https://github.com/kolldavi/php/blob/master/Weather/WeatherScreenShot.png?raw=true)](http://176.32.230.9/davidkollerpracticewebsite.com/API/Weather/)
+[![IMAGE ALT TEXT HERE](https://github.com/kolldavi/php/blob/master/Weather/WeatherScreenShot.png?raw=true)](http://davidkollerpracticewebsite-com.stackstaging.com/API/Weather/)
 
 
 
