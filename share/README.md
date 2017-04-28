@@ -1,10 +1,13 @@
 Share Website that lets users login share posts and view profiles using php html css mySQL javascript/jquery
+developed using mvc
 ==============================================================================================================
 
 
 ## Screenshot
-[![IMAGE ALT TEXT HERE](https://github.com/kolldavi/php/blob/master/share/ScreenShot1.png?raw=true)]
-[![IMAGE ALT TEXT HERE](https://github.com/kolldavi/php/blob/master/share/ScreenShot2.png?raw=true)]
+![screenshot](https://github.com/kolldavi/php/blob/master/share/ScreenShot1.png?raw=true))
+(http://davidkollerpracticewebsite-com.stackstaging.com/share/)
+
+
 
 Create by David Koller
 =======================
