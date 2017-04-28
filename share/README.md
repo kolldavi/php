@@ -3,9 +3,10 @@ developed using mvc
 ==============================================================================================================
 
 
+
 ## Screenshot
-![screenshot](https://github.com/kolldavi/php/blob/master/share/ScreenShot1.png?raw=true))
-(http://davidkollerpracticewebsite-com.stackstaging.com/share/)
+[![IMAGE ALT TEXT HERE](https://github.com/kolldavi/php/blob/master/share/ScreenShot1.png?raw=true)](http://davidkollerpracticewebsite-com.stackstaging.com/share/)
+
 
 
 
